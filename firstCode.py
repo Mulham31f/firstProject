@@ -1,6 +1,13 @@
-name = input("what is your name ? ")
-print("hello", name )
+from math import *
 
-x=5
-y=6
-print(x+y)
+r = 4
+h = 5
+
+tri = 0.5*r*h
+circl = pi*((r/2)**2)
+squr = r*r
+
+area = tri+ (squr-circl)
+print(area)
+
+

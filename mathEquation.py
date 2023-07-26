@@ -12,15 +12,6 @@ print(90/5)
 
 
 
-length = 100
-one_block = 5
-n=0
-
-while n<90:
-    n +=one_block
-    print(n)
-    
-
 
 
 
